@@ -1,0 +1,50 @@
+<li><a href="index.html">HOME </a> </li> 
+    <li><a href="secondpage.html">APPS  </a>  </li>
+    <li><a href="https://www.espn.com/nba/player/_/id/3012/kyle-lowry">STATS </a>  </li>
+<style>
+    h2 {
+  color: #CD057D;
+  font-size:50px;
+  text-align:center;
+}
+h2:hover{
+  font-size:150%;
+}
+h5 {
+  color:#70ab;
+  font-size: 40px;
+}
+body{
+  background-color:white;
+  
+}
+img:hover{
+  border: dashed blue 
+}
+
+
+
+nav {
+  list-style-type:none;
+  position:fixed; 
+  background-color:#EFD9CE;
+  width: 10vw;
+  top: 0;
+  left: 0;
+  padding:12px;
+}
+  li{
+    display: inline;
+    padding:13px;
+    float: left;
+  }
+
+a{
+  texr-docoration: none;
+  color: orange;
+}
+
+li:hover{
+  background-color: yellow;
+}
+    <style>
